@@ -33,10 +33,13 @@ dependencies: \
   /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTDivisionAnimatedNode.h \
   /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTEventAnimation.h \
   /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTFrameAnimation.h \
+  /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTDecayAnimation.h \
   /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTInterpolationAnimatedNode.h \
   /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTModuloAnimatedNode.h \
   /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTMultiplicationAnimatedNode.h \
   /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTPropsAnimatedNode.h \
   /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTSpringAnimation.h \
   /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTStyleAnimatedNode.h \
-  /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTTransformAnimatedNode.h
+  /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTSubtractionAnimatedNode.h \
+  /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTTransformAnimatedNode.h \
+  /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTTrackingAnimatedNode.h

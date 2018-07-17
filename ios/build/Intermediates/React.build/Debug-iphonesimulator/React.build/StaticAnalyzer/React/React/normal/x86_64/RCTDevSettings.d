@@ -10,14 +10,14 @@ dependencies: \
   /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/React/Base/RCTInvalidating.h \
   /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/ios/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
   /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/ios/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
-  /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/React/Modules/JSCSamplingProfiler.h \
   /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/React/Base/RCTBridge+Private.h \
   /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/React/Modules/RCTJSCSamplingProfiler.h \
   /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/React/Base/RCTLog.h \
   /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/React/Base/RCTAssert.h \
   /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/React/Base/RCTUtils.h \
   /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/React/Profiler/RCTProfile.h \
   /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/React/DevSupport/RCTPackagerClient.h \
-  /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/React/DevSupport/RCTPackagerClientResponder.h \
-  /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/React/DevSupport/RCTReloadPackagerMethod.h \
-  /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/React/DevSupport/RCTSamplingProfilerPackagerMethod.h
+  /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
+  /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h \
+  /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/React/Inspector/RCTInspectorPackagerConnection.h

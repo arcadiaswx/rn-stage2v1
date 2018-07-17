@@ -27,4 +27,8 @@ dependencies: \
   /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/ios/Build/Products/Debug-iphonesimulator/include/React/RCTResizeMode.h \
   /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/ios/Build/Products/Debug-iphonesimulator/include/React/RCTURLRequestHandler.h \
   /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/ios/Build/Products/Debug-iphonesimulator/include/React/RCTURLRequestDelegate.h \
+  /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/Libraries/Image/RCTImageShadowView.h \
+  /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/ios/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
+  /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/ios/Build/Products/Debug-iphonesimulator/include/React/RCTLayout.h \
+  /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/ios/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
   /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/Libraries/Image/RCTImageView.h

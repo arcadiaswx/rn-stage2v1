@@ -27,6 +27,8 @@ dependencies: \
   /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/React/Modules/RCTAccessibilityManager.h \
   /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/React/Base/RCTBridge+Private.h \
   /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/React/Views/RCTComponentData.h \
+  /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/React/Modules/RCTLayoutAnimation.h \
+  /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/React/Modules/RCTLayoutAnimationGroup.h \
   /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/React/Base/RCTModuleData.h \
   /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/React/Base/RCTModuleMethod.h \
   /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/React/Base/RCTBridgeMethod.h \
@@ -36,5 +38,12 @@ dependencies: \
   /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/React/Views/RCTView.h \
   /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/React/Views/RCTRootShadowView.h \
   /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/React/Views/RCTShadowView.h \
+  /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/React/Views/RCTLayout.h \
   /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/React/Base/RCTRootViewInternal.h \
-  /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/React/Views/RCTScrollableProtocol.h
+  /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/React/Views/ScrollView/RCTScrollableProtocol.h \
+  /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/React/Views/RCTShadowView+Internal.h \
+  /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/React/Base/Surface/RCTSurfaceRootShadowView.h \
+  /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/React/Base/Surface/RCTSurfaceRootShadowViewDelegate.h \
+  /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/React/Base/Surface/RCTSurfaceRootView.h \
+  /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/React/Modules/RCTUIManagerObserverCoordinator.h \
+  /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/React/Modules/RCTUIManagerUtils.h

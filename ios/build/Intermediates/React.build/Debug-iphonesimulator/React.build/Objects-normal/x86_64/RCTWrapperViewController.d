@@ -1,7 +1,6 @@
 dependencies: \
   /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/React/Views/RCTWrapperViewController.m \
   /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/React/Views/RCTWrapperViewController.h \
-  /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/React/Views/RCTViewControllerProtocol.h \
   /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/React/Base/RCTEventDispatcher.h \
   /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/React/Base/RCTBridge.h \
   /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
@@ -15,4 +14,6 @@ dependencies: \
   /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/React/Base/RCTUtils.h \
   /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/React/Base/RCTAssert.h \
   /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/React/Views/UIView+React.h \
+  /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/ios/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/ios/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
   /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/React/Views/RCTAutoInsetsProtocol.h

@@ -8,6 +8,9 @@ dependencies: \
   /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/React/Base/RCTBridgeModule.h \
   /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/React/Base/RCTFrameUpdate.h \
   /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/React/Modules/RCTUIManager.h \
+  /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/React/Base/RCTRootView.h \
+  /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/React/Views/RCTViewManager.h \
   /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/React/Base/RCTConvert.h \
   /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/React/Views/RCTAnimationType.h \
   /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/React/Views/RCTBorderStyle.h \
@@ -19,4 +22,6 @@ dependencies: \
   /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/ios/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
   /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/ios/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
   /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/ios/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
-  /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/React/Base/RCTEventDispatcher.h
+  /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/React/Views/UIView+React.h \
+  /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/React/Views/RCTComponent.h

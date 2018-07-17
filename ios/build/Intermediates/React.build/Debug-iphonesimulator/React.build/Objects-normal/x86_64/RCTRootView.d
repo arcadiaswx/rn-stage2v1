@@ -16,19 +16,21 @@ dependencies: \
   /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/React/Base/RCTKeyCommands.h \
   /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/React/Base/RCTLog.h \
   /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
+  /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/React/Base/RCTRootContentView.h \
+  /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/React/Views/RCTView.h \
+  /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/React/Views/RCTPointerEvents.h \
   /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/React/Base/RCTTouchHandler.h \
   /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/React/Modules/RCTUIManager.h \
   /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/React/Views/RCTViewManager.h \
   /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/React/Base/RCTConvert.h \
   /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/React/Views/RCTAnimationType.h \
-  /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/React/Views/RCTBorderStyle.h \
-  /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/React/Views/RCTPointerEvents.h \
   /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
   /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/ios/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
   /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/ios/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
   /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/ios/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
   /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/React/Views/UIView+React.h \
-  /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/React/Views/RCTComponent.h \
-  /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/React/Views/RCTView.h \
-  /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/React/Base/RCTRootContentView.h \
-  /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/React/Profiler/RCTProfile.h
+  /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/React/Modules/RCTUIManagerUtils.h

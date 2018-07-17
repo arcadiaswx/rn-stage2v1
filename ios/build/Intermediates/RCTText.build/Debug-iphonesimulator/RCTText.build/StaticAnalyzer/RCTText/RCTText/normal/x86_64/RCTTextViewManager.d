@@ -1,6 +1,6 @@
 dependencies: \
-  /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/Libraries/Text/RCTTextViewManager.m \
-  /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/Libraries/Text/RCTTextViewManager.h \
+  /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/Libraries/Text/Text/RCTTextViewManager.m \
+  /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/Libraries/Text/Text/RCTTextViewManager.h \
   /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/ios/Build/Products/Debug-iphonesimulator/include/React/RCTViewManager.h \
   /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/ios/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
   /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/ios/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
@@ -23,10 +23,17 @@ dependencies: \
   /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/ios/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
   /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/ios/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
   /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/ios/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
-  /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/ios/Build/Products/Debug-iphonesimulator/include/React/RCTFont.h \
+  /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/Libraries/Text/BaseText/RCTBaseTextViewManager.h \
+  /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/ios/Build/Products/Debug-iphonesimulator/include/React/RCTAccessibilityManager.h \
+  /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/ios/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView+Layout.h \
   /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/ios/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
+  /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/ios/Build/Products/Debug-iphonesimulator/include/React/RCTLayout.h \
   /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/ios/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
-  /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/Libraries/Text/RCTConvert+Text.h \
-  /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/Libraries/Text/RCTShadowTextView.h \
-  /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/Libraries/Text/RCTTextView.h \
-  /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/ios/Build/Products/Debug-iphonesimulator/include/React/RCTView.h
+  /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/ios/Build/Products/Debug-iphonesimulator/include/React/RCTUIManager.h \
+  /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/ios/Build/Products/Debug-iphonesimulator/include/React/RCTUIManagerUtils.h \
+  /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/ios/Build/Products/Debug-iphonesimulator/include/React/RCTUIManagerObserverCoordinator.h \
+  /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/Libraries/Text/Text/RCTTextShadowView.h \
+  /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/Libraries/Text/BaseText/RCTBaseTextShadowView.h \
+  /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/Libraries/Text/RCTTextAttributes.h \
+  /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/Libraries/Text/RCTTextTransform.h \
+  /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/Libraries/Text/Text/RCTTextView.h

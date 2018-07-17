@@ -29,4 +29,4 @@ dependencies: \
   /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/React/Views/UIView+React.h \
   /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/React/Views/RCTComponent.h \
   /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/React/Base/RCTBridge+Private.h \
-  /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/React/Modules/RCTDevMenu.h
+  /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/React/DevSupport/RCTDevMenu.h

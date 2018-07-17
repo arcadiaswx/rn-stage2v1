@@ -13,4 +13,5 @@ dependencies: \
   /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/ios/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
   /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/ios/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
   /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/ios/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/ios/Build/Products/Debug-iphonesimulator/include/fishhook/fishhook.h \
   /Users/craig/Repos/projects/javascript/ReactNative/stage2v1/node_modules/react-native/Libraries/WebSocket/RCTSRWebSocket.h
